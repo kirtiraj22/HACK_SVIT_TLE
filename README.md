@@ -4,3 +4,11 @@ Many students in engineering fields face the problem of not getting proper path 
 IDEA:
 We are basically gone be make a webEsite in which we will provide all roadmaps for differnt cse specialsed fields by which students will get all roadmaps from top till end and the way by which they can successfully learn their skills.This is differnt from others as students will get every thing within a single website.They dont have to find it out here and there.Also a students who is begineer will get basic idea of each and every field in cse so that they can start learning their own intrested fields. 
 Hope this idea may help students in seeking their future in cse.
+
+
+TECHNOLOGIES WE USED : Visual Studio Code,Github
+
+requirements : HTML snippets,CSS
+
+STEPS:
+->go to index.html and then run it.
